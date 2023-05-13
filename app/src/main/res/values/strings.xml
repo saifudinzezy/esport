@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-sport</string>
+    <array name="teams">
+        <item>RRQ</item>
+        <item>AURA FIRE</item>
+        <item>ONIC</item>
+        <item>EVOS</item>
+    </array>
+</resources>
